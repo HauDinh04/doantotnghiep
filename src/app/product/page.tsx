@@ -1,6 +1,4 @@
-const ProductPage =()=>{
-    return(
-        <div className="">ProductPage</div>
-    );
-}
+const ProductPage = () => {
+  return <div className="">ProductPage</div>;
+};
 export default ProductPage;
